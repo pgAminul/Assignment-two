@@ -1,7 +1,7 @@
 # Vehicle Rental Management System
 
 ## 🔗 Live URL
-https://assignment-2-nine-psi.vercel.app
+https://vehicle-rental-system-bice-sigma.vercel.app/
 
 ---
 
