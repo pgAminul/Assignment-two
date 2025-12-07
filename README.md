@@ -1,7 +1,8 @@
 # Vehicle Rental Management System
 
 ## 🔗 Live URL
-https://vehicle-rental-system-pgaminul-aminul-islams-projects-174a2993.vercel.app/
+https://assignment-2-nine-psi.vercel.app
+
 ---
 
 ##  Project Overview
