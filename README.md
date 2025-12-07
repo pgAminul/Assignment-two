@@ -1,8 +1,7 @@
 # Vehicle Rental Management System
 
 ## 🔗 Live URL
-https://vehicle-rental-system-bice-sigma.vercel.app/
-
+https://vehicle-rental-system-pgaminul-aminul-islams-projects-174a2993.vercel.app/
 ---
 
 ##  Project Overview
