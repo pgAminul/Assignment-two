@@ -56,8 +56,8 @@ The Vehicle Rental Management System is a full-stack web application that allows
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Johora99/vehicle-rental-system
-cd vehicle-rental-system
+git clone url
+cd file name
 ```
 ### 2. Install Dependencies
 ```
